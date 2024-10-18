@@ -1,0 +1,9 @@
+// java simple example2
+Class Main{
+
+    public static void main(String[] args){
+
+           System.out.println("Hellow World2");
+  
+      }
+}
