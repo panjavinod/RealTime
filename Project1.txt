@@ -1,4 +1,4 @@
-// java simple example
+// java simple example practice realtime
 Class Main{
 
     public static void main(String[] args){
