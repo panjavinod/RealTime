@@ -1,4 +1,8 @@
-// java simple example
+<<<<<<< HEAD
+// java simple example practice realtime
+=======
+java simple example practicee
+>>>>>>> origin/master
 Class Main{
 
     public static void main(String[] args){
